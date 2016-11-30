@@ -1,0 +1,27 @@
+{
+    "target_names": {
+        "1": "Dead",
+        "2": "Exposure",
+        "3": "Injured",
+        "4": "Missing",
+        "5": "UNSPECIFIED"
+    },
+    "feature_names": [
+        "gross_ton",
+        "net_ton",
+        "vlength",
+        "vbreadth",
+        "vdepth",
+        "incident_yr",
+        "incident_mo",
+        "incident_dy",
+        "activity_type",
+        "route_type",
+        "vessel_class",
+        "max_passengers_allowed",
+        "max_crew",
+        "vessel_age",
+        "accident_type",
+        "casualty"
+    ]
+}
